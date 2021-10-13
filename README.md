@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **krupashreeks2001@gmail.com**
 
-- 📄 Know about my experiences [starting off now!]
+- 📄 Know about my experiences [starting off now!] 
 
 
 <h3 align="left">Languages and Tools:</h3>
